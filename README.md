@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Repositório com exercícios básicos desenvolvidos em Java para praticar estruturas de decisão (`if`, `else if`, `else`) e entrada de dados com `Scanner`.
+Repositório com exercícios básicos desenvolvidos em Java para praticar estruturas de decisão (`if`, `else if`, `else`), laços de repetição (`while`) e entrada de dados com `Scanner`.
 
 ## Exercícios
 
@@ -23,3 +23,9 @@ Repositório com exercícios básicos desenvolvidos em Java para praticar estrut
 - Solicita uma senha.
 - Compara com a senha pré-definida.
 - Informa se o acesso foi liberado ou negado.
+
+### 4. Repetição com `while`: A Mãe Brava
+
+- Utiliza um laço `while` para repetir uma mensagem.
+- Exibe uma frase cinco vezes, simulando uma mãe insistindo com o filho.
+- Mostra ao final uma resposta do filho.
