@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Repositório com exercícios básicos desenvolvidos em Java para praticar estruturas de decisão (`if`, `else if`, `else`), laços de repetição (`while`) e entrada de dados com `Scanner`.
+Repositório com exercícios básicos desenvolvidos em Java para praticar saída de dados formatada, estruturas de decisão (if, else if, else), laços de repetição (while) e entrada de dados com Scanner.
 
 ## Exercícios
 
@@ -29,3 +29,9 @@ Repositório com exercícios básicos desenvolvidos em Java para praticar estrut
 - Utiliza um laço `while` para repetir uma mensagem.
 - Exibe uma frase cinco vezes, simulando uma mãe insistindo com o filho.
 - Mostra ao final uma resposta do filho.
+
+### 5. Saída de dados formatada
+
+- Declara variáveis de diferentes tipos (Stirng, int, char, double).
+- Exibe informações utilizando System.out.printf() com formatações específicas.
+- Demonstra uso da classe `Locale` para alterar a formatação numérica.
