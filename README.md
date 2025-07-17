@@ -32,6 +32,6 @@ Repositório com exercícios básicos desenvolvidos em Java para praticar saída
 
 ### 5. Saída de dados formatada
 
-- Declara variáveis de diferentes tipos (Stirng, int, char, double).
+- Declara variáveis de diferentes tipos (String, int, char, double).
 - Exibe informações utilizando System.out.printf() com formatações específicas.
 - Demonstra uso da classe `Locale` para alterar a formatação numérica.
